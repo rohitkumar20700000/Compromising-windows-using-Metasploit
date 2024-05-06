@@ -1,4 +1,4 @@
-# EXPERIMENT-05-Compromising windows using Metasploit
+# EXPERIMENT-06-Compromising windows using Metasploit
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
